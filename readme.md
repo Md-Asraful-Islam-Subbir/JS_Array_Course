@@ -2,28 +2,6 @@
 
 Welcome to the JavaScript Array Master Course!!!
 
-This repository contains all the source code, tasks, and course flow. The source code is in the [`index.js`](./index.js) file, and the tasks are in the [`task.md`](./task.md) file.
-
-I hope you like this effort ❤️ and show your support 🤝. 
-
-You can do the following:
-
-- Give a ⭐ to this repository.
-- [Subscribe to tapaScript English Channel.](https://youtube.com/@tapasadhikary?sub_confirmation=1)
-- [Subscribe to tapaScript Bangla Channel.](https://youtube.com/@tapascript-bangla?sub_confirmation=1)
-
-Many Thanks to all the supporters 🫶
-
-[![Stargazers repo roster for tapascript/js-array-course](https://reporoster.com/stars/tapascript/js-array-course)](https://github.com/atapas/tapascript/js-array-course)
-
-## 📹 Course Videos
-The course is available in Bangla and English.
-
-### 🟢 Bangla Course
-Access the course in Bangla from here: [JavaScript Array Master Course](https://www.youtube.com/watch?v=cnClUIjNvGw&list=PLRFcjW6Dq28m62Ph9no5nUUU57dNGP_OJ)
-
-### 🟠 English Course
-Access the [FULL COURSE FROM HERE](https://www.youtube.com/watch?v=t05NguKFKo0). Please follow the series `40 Days of JavaScript` on the [tapaScript English Channel](https://youtube.com/@tapasadhikary?sub_confirmation=1). Subscribe, turn the notification ON.
 
 ## 📚 Course Flow
 
